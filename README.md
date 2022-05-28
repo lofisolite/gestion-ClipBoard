@@ -1,7 +1,7 @@
 # maquettage logiciel clipboard
 
 ## Description 
-Réalisation de la gestion projet du logiciel fictif **ClipBoard**.
+Réalisation de l'analyse des besoins et du maquettage du logiciel fictif **ClipBoard**.
 
 Ce logiciel permet aux utilisateurs de sauvegarder leurs textes copiés sur mobile, tablette et desktop.
 
